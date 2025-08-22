@@ -53,4 +53,3 @@ for i in range (items):
         "price":price,
     })
 print(product)
- kk
